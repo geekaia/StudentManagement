@@ -1,4 +1,4 @@
 # StudentManagement
 
 
-Projeto usando Spring MVC com PostgreSQL
+Este projeto usa o Spring MVC e PostgreSQL
